@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <assesment>
+        <!-- normal mode if nothing is stated-->
+        <globalTime>10</globalTime>
+        <totalPoints>100</totalPoints> <!-- you have 10 in total to give here. If <subtractive> is not written, it means you have 1-10 for each question!-->
+        <color>
+            <c>0xfff200</c>
+            <c>0xee80b3</c>
+        </color>
+        <number></number>
+        <explanation>this is an ADITIVE assesment !!!!!
+            //lolloloolkokfsjdflkjsefi
+            //blabalallakalbla
+            
+        </explanation>
+        
+        <question>
+            <secTime>5</secTime>
+            <q>question nr 1
+                //line divide
+                //whatever</q>
+        </question>
+        
+        <question>
+            <secTime>5</secTime>
+            <q>question nr 2
+                //line divide
+                //whatever</q>
+        </question>
+        
+        <question>
+            <secTime>5</secTime>
+            <q>question nr 3
+                //line divide
+                //whatever</q>
+        </question>
+        <question>
+            <secTime>5</secTime>
+            <q>question nr 4
+                //line divide
+                //whatever</q>
+        </question>
+        <question>
+            <secTime>5</secTime>
+            <q>question nr 5
+                //line divide
+                //whatever</q>
+        </question>
+        <question>
+            <secTime>5</secTime>
+            <q>question nr 6
+                //line divide
+                //whatever</q>
+        </question>
+        <question>
+            <secTime>5</secTime>
+            <q>question nr 7
+                //line divide
+                //whatever</q>
+        </question>
+        <question>
+            <secTime>5</secTime>
+            <q>question nr 8
+                //line divide
+                //whatever</q>
+        </question>
+            
+    </assesment>
+
+</document>

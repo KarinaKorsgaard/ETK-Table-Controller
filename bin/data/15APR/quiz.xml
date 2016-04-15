@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    
+    
+   
+   <quiz>
+       <globalTime>20</globalTime>
+     
+       <matrixX>1000</matrixX>
+       <matrixY>100</matrixY>
+       
+       <timerX>50</timerX>
+       <timerY>175</timerY>
+       
+       <legendX>1000</legendX>
+       <legendY>800</legendY>
+       
+       <explanationX>50</explanationX>
+       <explanationY>150</explanationY>
+       
+       <headlineX>50</headlineX>
+       <headlineY>600</headlineY>
+       
+       <questionX>50</questionX>
+       <questionY>700</questionY>
+       
+       <top10chartAssesmentX>1000</top10chartAssesmentX>
+       <top10chartAssesmentY>500</top10chartAssesmentY>
+       
+       <top10chartQuizX>400</top10chartQuizX>
+       <top10chartQuizY>300</top10chartQuizY>
+
+       
+        <explanation>Vali endale laualt personaalne mängunupp.
+            //Oma nupule vastava markeri leiad maatriksist
+            //nuputähise (A-F) ja lauanumbri (1-12)ristumiskohast.
+            //Küsimusele vastamiseks aseta nupp laua valgustatud osale ning
+            //pööra seda päri- või vastupäeva.
+            //
+            //Pick your personal button from the table. You will find
+            //the marker corresponding to your button at the intersection
+            //of your button marker(A-F) and table number (1-12).
+            //To state your answer, lay the button on the lit up area
+            //of the table and turn it clockwise or counter-clockwise
+            
+        </explanation>
+        
+        <question>
+           <headline>Arvutamine</headline>
+           
+           <q>1+1?
+            </q>
+           
+            <a>2<color>0xee80b3</color></a>
+            <a>3<color>0x25aae1</color></a>
+            <a>4<color>0x000000</color></a>
+            
+        </question>
+        
+        <question>
+            <headline>Arvutamine</headline>
+            
+            <q>1+2
+            </q>
+            
+            <a>2<color>0xee80b3</color></a>
+            <a>3<color>0x25aae1</color></a>
+            <a>4<color>0x000000</color></a>
+            
+        </question>
+        
+        <question>
+            <headline>Arvutamine</headline>
+            
+            <q>1+3
+            </q>
+            
+            <a>2<color>0xee80b3</color></a>
+            <a>3<color>0x25aae1</color></a>
+            <a>4<color>0x000000</color></a>
+            
+        </question>
+        
+       
+        
+        <rightAnswers>
+            <a>1</a>
+            <a>2</a>
+            <a>3</a>
+        </rightAnswers>
+        
+        <endColors> <!-- not necessary, will be black if nothing else stated -->
+            <c>0xfff200</c>
+            <c>0xee80b3</c>
+            <c>0xee80b3</c>
+        </endColors>
+
+    </quiz>
+
+    
+
+</document>

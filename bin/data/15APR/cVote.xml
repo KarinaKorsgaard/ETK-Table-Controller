@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <vote>
+      <!--  <majority></majority>-->
+        <consentual></consentual>
+      <!--   <weighed></weighed>-->
+        
+        <explanation>this is a concensual vote (tähisega A-F)
+            //the scene ends when all agree. (more than 10)
+            
+        </explanation>
+        
+        <headline>whatever</headline>
+        <question>
+            
+            <q>question nr 2
+                //line divide
+                //whatever</q>
+            <a>answer option 1
+                <img>0</img>
+            </a>
+            <a>answer option 2
+                <img>1</img>
+            </a>
+            <a>answer option 3 
+                <img>2</img>
+            </a>
+            <a>answer option 4
+                <img>3</img>
+            </a>
+        </question>
+        
+    </vote>
+
+</document>

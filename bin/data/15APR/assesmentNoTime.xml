@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    
+    <assesment>
+        
+        <globalFontSize>35</globalFontSize>
+        
+        <liveResultFontSize>50</liveResultFontSize>
+        
+        <headLineFontSize>110</headLineFontSize>
+        <questionFontSize>35</questionFontSize>
+        <explanationFontSize>30</explanationFontSize>
+        
+        <chartFontSize>40</chartFontSize>
+        <legendFontSize>10</legendFontSize>
+        <timerSize>0</timerSize>
+        <resultFontSize>100</resultFontSize>
+        
+        <matrixX>1000</matrixX>
+        <matrixY>100</matrixY>
+        
+        <timerX>50</timerX>
+        <timerY>175</timerY>
+        
+        <legendX>1000</legendX>
+        <legendY>800</legendY>
+        
+        <explanationX>50</explanationX>
+        <explanationY>100</explanationY>
+        
+        <headlineX>50</headlineX>
+        <headlineY>660</headlineY>
+        
+        <questionX>50</questionX>
+        <questionY>700</questionY>
+        
+        <globalHeadlineX></globalHeadlineX>
+        <globalHeadlineY></globalHeadlineY>
+        
+        <top10chartAssesmentX>1000</top10chartAssesmentX>
+        <top10chartAssesmentY>500</top10chartAssesmentY>
+        
+        <top10chartQuizX>100</top10chartQuizX>
+        <top10chartQuizY>50</top10chartQuizY>
+        <!--
+        <subtractive></subtractive> <!-- normal mode if nothing is stated-->
+        
+        <totalPoints>10</totalPoints> <!-- you have 10 in total to give here. If <subtractive> is not written, it means you have 1-10 for each question!-->
+        <color>
+            <c>0x808080</c>
+            <c>0x000000</c>
+        </color>
+        <number></number><!-- numbers -->
+        <explanation>Leia endale laualt personaalne
+            //hääletusnupp. Aseta hääletusnupp laual olevale
+            //klaastahvlile. Enda hääletusnupule vastava
+            //markeri leiad ekraanilt oma nuputähise (A-F)
+            //ning klaastahvli nurgal oleva lauanumbri (1-12)
+            //ristumiskohast. Anna oma punktid, pöörates nuppu
+            //päri- või vastupäeva.
+            
+        </explanation>
+        
+        
+        <question>
+            <headline>t-EST-tube</headline>
+            <q></q>
+        </question>
+        
+        <question>
+            <headline>Spacekid</headline>
+            <q></q>
+        </question>
+        
+        <question>
+            <headline>Metsatöll</headline>
+            <q></q>
+        </question>
+        
+        <question>
+            <headline>Dünaamiline investeering</headline>
+            <q></q>
+        </question>
+        
+        <question>
+            <headline>Väle Eesti</headline>
+            <q></q>
+        </question>
+        
+        
+    </assesment>
+    
+</document>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <globalFontSize>35</globalFontSize>
+    
+    <liveResultFontSize>80</liveResultFontSize>
+    
+    <headLineFontSize>60</headLineFontSize>
+    <questionFontSize>30</questionFontSize>
+    <explanationFontSize>30</explanationFontSize>
+    
+    <chartFontSize>30</chartFontSize>
+    <legendFontSize>30</legendFontSize>
+    <timerSize>200</timerSize>
+    <resultFontSize>100</resultFontSize>
+    
+    
+    <matrixX>1000</matrixX>
+    <matrixY>100</matrixY>
+    
+    <timerX>50</timerX>
+    <timerY>175</timerY>
+    
+    <legendX>1000</legendX>
+    <legendY>800</legendY>
+    
+    <explanationX>50</explanationX>
+    <explanationY>250</explanationY>
+    
+    <headlineX>50</headlineX>
+    <headlineY>500</headlineY>
+    
+    <questionX>50</questionX>
+    <questionY>800</questionY>
+    
+    <top10chartAssesmentX>1000</top10chartAssesmentX>
+    <top10chartAssesmentY>500</top10chartAssesmentY>
+    
+    <top10chartQuizX>100</top10chartQuizX>
+    <top10chartQuizY>50</top10chartQuizY>
+    
+    <tableNames>One//Two//Three//Four//Five//Six//Seven//Eight//Nine//1Ten//Eleven//Twelve</tableNames>
+    
+    <wrongImage>wrongImage.png</wrongImage>
+    <img>0.png</img> <!-- image 0-->
+    <img>1.png</img> <!-- image 1-->
+    <img>2.png</img>
+    <img>3.png</img>
+    <img>stribes-01.png</img>
+    <img>w-01.png</img>
+    <img>w-02.png</img>
+    <img>w-03.png</img>
+
+
+    <scene>
+        <file>quiz.xml</file>
+    </scene>
+
+    <scene>
+        <file>assesment.xml</file>
+    </scene>
+    <scene>
+        <file>ADDassesment.xml</file>
+    </scene>
+    <scene>
+        <file>assesmentNoTime.xml</file>
+    </scene>
+    <scene>
+        <file>vote.xml</file>
+    </scene>
+    
+    <scene>
+        <file>wVote.xml</file>
+    </scene>
+    
+    <scene>
+        <file>cVote.xml</file>
+    </scene>
+    
+    <scene>
+        <file>cVote.xml</file>
+    </scene>
+    
+</document>

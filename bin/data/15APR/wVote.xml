@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <vote>
+      <!--  <majority></majority>
+        <consentual></consentual>-->
+        <weighed></weighed>
+        
+        <globalFontSize>35</globalFontSize>
+        
+        <liveResultFontSize>80</liveResultFontSize>
+        
+        <headLineFontSize>60</headLineFontSize>
+        <questionFontSize>30</questionFontSize>
+        <explanationFontSize>30</explanationFontSize>
+        
+        <chartFontSize>70</chartFontSize>
+        <legendFontSize>30</legendFontSize>
+        <timerSize>200</timerSize>
+        <resultFontSize>100</resultFontSize>
+        
+        
+        <!--aligners-->
+        <matrixX>1000</matrixX>
+        <matrixY>100</matrixY>
+        
+        <timerX>50</timerX>
+        <timerY>175</timerY>
+        
+        <legendX>1000</legendX>
+        <legendY>800</legendY>
+        
+        <explanationX>50</explanationX>
+        <explanationY>500</explanationY>
+        
+        <questionX>50</questionX>
+        <questionY>800</questionY>
+        
+        <top10chartAssesmentX>1000</top10chartAssesmentX>
+        <top10chartAssesmentY>500</top10chartAssesmentY>
+        
+        <top10chartQuizX>100</top10chartQuizX>
+        <top10chartQuizY>50</top10chartQuizY>
+        <!-- end aligners-->
+
+        
+        <explanation>this is a weighed vote (tähisega A-F)
+            //the points the ppl have gatherd throughout the.
+            //show decides how much influence they have.
+            //if "clear points" is pressed, all ppl go back to
+            //having 0 points, and then they need to have a new
+            //quiz to gather points. Wheighed vote should always
+            //come after a quiz.
+            
+        </explanation>
+        <globalTime>100</globalTime>
+        <headline>WHHHHAT</headline>
+        <question>
+            
+            <q>question nr 2
+                //line divide
+                //whatever</q>
+            <a>answer option 1
+                <color>0xfff200</color>
+                <img>1</img>
+            </a>
+            <a>answer option 2
+               <!-- <letter>PP</letter>  letters are not too good for this, or the quiz. it looks stupid. -->
+               
+               <letter>PP</letter>
+            </a>
+            <a>answer option 3 
+                
+            </a>
+        </question>
+        
+    </vote>
+
+</document>

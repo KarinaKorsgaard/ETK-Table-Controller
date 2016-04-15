@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <vote>
+      <majority></majority>
+       <!--    <consentual></consentual>
+        <weighed></weighed>-->
+        
+        <explanation>Hääletus
+            
+        </explanation>
+        <globalTime>20</globalTime>
+        
+        <question>
+            <headline>if you want one. else it will be nothing</headline>
+            <q>Millal tegutseda?
+                </q>
+            <a>Kohe
+                <color>0x0000FF</color>
+            </a>
+            <a>Pärast
+                <color>0x808080</color>
+            </a>
+            <a>Ennetavalt
+                <color>0xADD8E6</color>
+            </a>
+        </question>
+        
+        <question>
+            <headline>if you want one. else it will be nothing</headline>
+            <q>Millal tegutseda?
+            </q>
+            <a>Kohe
+                <color>0x0000FF</color>
+            </a>
+            <a>Pärast
+                <color>0x808080</color>
+            </a>
+            <a>Ennetavalt
+                <color>0xADD8E6</color>
+            </a>
+        </question>
+        
+    </vote>
+
+</document>
